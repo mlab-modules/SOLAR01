@@ -1,0 +1,20 @@
+description: 'MPPT PV cell tracker. Module permanently search maximum power point
+  of connected photovoltaic panel and convert the generated energy to higher voltages
+  (40V maximum). This allow serial or parralel connection of non strictly uniform
+  pannels. It can be used for fotovoltaic panels in range of tend or hundreds of Watts. '
+github_branch: SOLAR01A
+github_description: 'MPPT PV cell tracker. Module permanently search maximum power
+  point of connected photovoltaic panel and convert the generated energy to higher
+  voltages (40V maximum). This allow serial or parralel connection of non strictly
+  uniform pannels. It can be used for fotovoltaic panels in range of tend or hundreds
+  of Watts. '
+github_repo: SOLAR01
+github_url: https://github.com/mlab-modules/SOLAR01
+homepage: false
+images:
+- doc/img/SOLAR01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: SOLAR01
+updated: '2023-09-17T11:34:15.455705+00:00'
